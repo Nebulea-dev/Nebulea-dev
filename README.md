@@ -1,6 +1,6 @@
 # Hi I'm Max 👋
 
-![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord Badge](https://img.shields.io/badge/%40Nebulea-%235865F2?style=flat&logo=discord&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaiben/)](https://www.linkedin.com/in/gaiben/)
 [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nebulea.dev)](https://nebulea.dev)
 [![Twitter Badge](https://img.shields.io/badge/%40_Nebulea-%231D9BF0?style=flat&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2F_Nebulea)](https://twitter.com/_Nebulea)
