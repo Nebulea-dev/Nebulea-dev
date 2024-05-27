@@ -8,5 +8,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Maxence.Mathieu.Mail-%23EA4335?style=flat&logo=gmail&logoColor=white&link=mailto%3AMaxence.Mathieu.Mail%40gmail.com)](mailto:Maxence.Mathieu.Mail@gmail.com)
 
 Welcome to my profile! I'm a student at ENSIMAG, aspiring reverse engineer, part-time coder and full-time problem solver. I am currently interning at Allegro DVT. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/nebulea/)!
-
-![Most used languages graph](https://github-readme-stats.vercel.app/api/top-langs/?username=clubmax27&theme=synthwave)
