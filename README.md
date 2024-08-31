@@ -1,4 +1,4 @@
-# Hi I'm Max 👋
+# Hi I'm Lea 👋
 
 [![Discord Badge](https://img.shields.io/badge/%40Nebulea-%235865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Nebulea-%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnebulea%2F)](https://www.linkedin.com/in/nebulea/)
